@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+client_secret*.json
+local_data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+   .streamlit/secrets.toml.*
